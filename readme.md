@@ -1,10 +1,8 @@
 # Data Visualization - Ford GoBike (Bike Shares)
-## by Jem Chang
 
 
 ## Dataset
-
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+The dataset, 2017-fordgobike-tripdata.csv, is downloaded from [Ford GoBike](https://s3.amazonaws.com/fordgobike-data/index.html). This dataset includes 519,700 trips with 15 features such as locations, time, and user attributes. There are start and end stations. I noticed that most trips happen on the similar stations, so I subset the dataset by choosing start top 8 trips stations. Also, the program launched since June, 28th, 2017, so I remove June's data because of lack of insufficient data. Thus, the following analysis is performed by this subsetted dataset.
 
 
 ## Summary of Findings

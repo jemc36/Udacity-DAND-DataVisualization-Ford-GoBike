@@ -16,5 +16,5 @@ For the gender groups, the number of trips in male riders is 3 times more than t
 The stations with the most trips are located in San Francisco and connect to public transportations including Caltrain, Bart and Ferry. User types play a key factor on the number of trips in each location and time group. For customers, there are more trips in the weekends and in August. They also have longer trips. On the other hand, for subscribers, there are more trips during the weekends and the number of trips is influenced by the climate change. Thus, collecting more information individually from these two user types is important for the future analysis.
 
 ## Review
-* Udacity Review 1  
-* Udacity Review 2   
+* [Udacity Review 1](https://github.com/jemc36/Udacity-DAND-DataVisualization-Ford-GoBike/blob/master/Udacity%20Reviews%201.pdf)  
+* [Udacity Review 2](https://github.com/jemc36/Udacity-DAND-DataVisualization-Ford-GoBike/blob/master/Udacity%20Reviews%202.pdf)   
